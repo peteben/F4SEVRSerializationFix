@@ -1,0 +1,17 @@
+{
+    "name": "f4vrfixacti",
+    "version-semver": "0.1.0",
+    "dependencies": [
+        "fmt",
+        "boost-nowide",
+        "boost-stacktrace",
+        "boost-stl-interfaces",
+        "rsm-binary-io",
+        "frozen",
+        "rapidcsv",
+        "rsm-mmio",
+        "xbyak",
+        "spdlog"
+    ]
+}
+

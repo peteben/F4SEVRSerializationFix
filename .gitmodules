@@ -1,1 +1,4 @@
 
+[submodule "extern/CommonLibF4"]
+	path = extern/CommonLibF4
+	url = https://github.com/Peteben/CommonLibF4
